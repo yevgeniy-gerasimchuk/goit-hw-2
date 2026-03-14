@@ -78,6 +78,9 @@ address {
 .order-button:focus {
   background-color: #404bbf;
 }
+.feature-section {
+  background-color: #ffffff;
+}
 .features-list {
   list-style: none;
 }
@@ -132,6 +135,9 @@ address {
   background-color: #f4f4fd;
 }
 .portfolio-section {
+  background-color: #ffffff;
+}
+.portfolio-title {
   font-size: 36px;
   color: #2e2f42;
   font-weight: 700;
