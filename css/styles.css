@@ -29,7 +29,7 @@ ul {
   color: #2e2f42;
   text-decoration: none;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .nav-link:hover,
 .nav-link:focus {
@@ -48,6 +48,7 @@ address {
   font-style: normal;
   text-decoration: none;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .address-link:hover,
 .address-link:focus {
@@ -71,6 +72,7 @@ address {
   font-size: 16px;
   line-height: 1.5;
   cursor: pointer;
+  letter-spacing: 0.04em;
 }
 .order-button:hover,
 .order-button:focus {
@@ -84,22 +86,22 @@ address {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .feature-text {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .section-title {
   font-size: 36px;
   font-weight: 700;
   color: #2e2f42;
   text-align: center;
-  letter-spacing: 2%;
-  line-height: 1.1;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
 }
 .team-list {
   list-style: none;
@@ -114,7 +116,7 @@ address {
   color: #2e2f42;
   text-align: center;
   font-weight: 500;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   line-height: 1.2;
 }
 
@@ -124,7 +126,7 @@ address {
   font-weight: 400;
   text-align: center;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .team-section {
   background-color: #f4f4fd;
@@ -134,8 +136,8 @@ address {
   color: #2e2f42;
   font-weight: 700;
   text-align: center;
-  letter-spacing: 2%;
-  line-height: 1.1;
+  letter-spacing: 0.02em;
+  line-height: 1.11;
 }
 .portfolio-list {
   list-style: none;
@@ -144,7 +146,7 @@ address {
   font-size: 20px;
   font-weight: 500;
   color: #2e2f42;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   line-height: 1.2;
 }
 .app-department {
@@ -152,7 +154,7 @@ address {
   font-weight: 400;
   color: #434455;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
 .footer {
   background-color: #2e2f42;
@@ -174,6 +176,6 @@ address {
   color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   line-height: 1.5;
 }
